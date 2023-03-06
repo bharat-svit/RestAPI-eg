@@ -1,0 +1,16 @@
+-> This is very basic project of building REST API using NodeJs , MongoDB & Express.
+
+-> REST API(JSON DATATYPE) : 
+
+1) GET 
+http://localhost:5000/students/
+
+2) POST
+http://localhost:5000/students/add
+
+3) UPDATE
+http://localhost:5000/students/update/:id
+
+4) DELETE
+http://localhost:5000/students/delete/:id
+
